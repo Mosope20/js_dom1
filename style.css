@@ -1,0 +1,16 @@
+.nav-center{
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    padding-left: 200px;
+}
+ul{
+    display: flex;
+    padding-top: 5px;
+    padding-right: 200px;
+    
+}
+li{
+    padding-left: 20px;
+}
